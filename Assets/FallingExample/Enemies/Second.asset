@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 31854399c6f43ac459c09ab9791f5605, type: 3}
-  m_Name: First 2
+  m_Name: Second
   m_EditorClassIdentifier: 
-  mainSprite: {fileID: 0}
-  speed: 0
-  attack: 0
+  mainSprite: {fileID: 21300000, guid: 8ed8b4e62c4410345afa6c531a1e9b4e, type: 3}
+  speed: 0.17
+  attack: 2
